@@ -3,7 +3,7 @@
 # My CS Profile
 
 ## About Me
-- Name: Somchai
+- Name: Phailin
 - Major: Computer Science
 
 ## My Learning Goals
